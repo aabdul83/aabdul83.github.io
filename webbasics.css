@@ -28,7 +28,7 @@ h1, h2, h3, table {
 }
 
 h1, h2, h3, p, table {
-  text-align:center;
+  text-align: center;
 }
 
 ul, ol {
@@ -112,9 +112,10 @@ div {
   padding: 5px;
 }
 
-  .smaller-image {
+.smaller-image {
     width: 50px;
   }
+
 
 #resource-background {
   background-color: #b5b0b0;
